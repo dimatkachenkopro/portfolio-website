@@ -12,7 +12,7 @@
 }
 
 :root {
-  --red: #ff2020;
+  --red: white;
 }
 
 html {
@@ -108,9 +108,9 @@ nav {
 }
 /* ––– HEADER –––*/
 .header {
-  
+  padding-top: 10rem;
   text-align: center;
-  height: 80vh;
+  height: 100vh;
 }
 
 .title {
