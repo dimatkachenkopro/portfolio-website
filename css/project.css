@@ -1,4 +1,4 @@
-/* ––– GLOBAL –––*/
+––– GLOBAL –––
 * {
     margin: 0;
     padding: 0;
@@ -148,22 +148,6 @@ nav {
     color: var(--red, red);
 }
 
-/* ––– WORK –––*/
-.work {
-    text-align: center;
-    width: 100%;
-    padding: 5%;
-}
-
-.work img {
-    margin-bottom: 3rem;
-    border-radius: 5px;
-    box-shadow: 0 30px 140px -50px rgba(44, 48, 56, 0.5);
-
-    animation: moveInRight;
-    animation-duration: 1s;
-}
-
 /* ––– FOOTER –––*/
 .footer {
     margin-top: 5rem;
@@ -173,7 +157,7 @@ nav {
 }
 
 /* ––– RESPONSIVE –––*/
-@media only screen and (max-width: 1024px) {
+/* @media only screen and (max-width: 1024px) {
 
     body {
         margin-top: 0;
@@ -185,10 +169,6 @@ nav {
 
     .brand {
         font-size: 2rem;
-    }
-
-    .dot {
-        display: none;
     }
 
     .header p {
@@ -217,5 +197,5 @@ nav {
     .img-half {
         width: 100%;
         margin: 0;
-    }
+    } */
 }
